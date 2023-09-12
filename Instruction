@@ -1,0 +1,10 @@
+Use this Command in cmd to run the Java program
+
+  javac -cp mysql-connector-java-5.1.49.jar;. jdbcCRUDSwingOperate.java
+
+  java -cp mysql-connector-java-5.1.49.jar;. jdbcCRUDSwingOperate
+
+
+the jar file must in a same folder before run.
+
+if you dont have database: You need to install MySQL Workbench or Xampp in your pc to Run this Program.
