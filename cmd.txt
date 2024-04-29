@@ -1,3 +1,3 @@
-javac -cp mysql-connector-java-5.1.49.jar;. Lab6B.java
+javac -cp mysql-connector-java-5.1.49.jar;. jdbcCRUDSwingOperate.java
 
-java -cp mysql-connector-java-5.1.49.jar;. Lab6B
+java -cp mysql-connector-java-5.1.49.jar;. jdbcCRUDSwingOperate
